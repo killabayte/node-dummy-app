@@ -1,4 +1,4 @@
-# node demo app
+# node dummy app
 
 ## Docker
 ```
