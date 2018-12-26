@@ -1,0 +1,11 @@
+Source: node-dummy-app
+Section: unknown
+Priority: optional
+Maintainer: Yaroslav Kostyannikov <killabayte.yarick@gmail.com>
+Standards-Version: 0.0.1
+
+Package: node-dummy-app
+Architecture: any
+Depends: nodejs
+Description: node demo application
+ node dummy application that prints some text
