@@ -7,5 +7,5 @@ Standards-Version: 0.0.1
 Package: node-dummy-app
 Architecture: any
 Depends: nodejs
-Description: node demo application
+Description: node dummy application
  node dummy application that prints some text
