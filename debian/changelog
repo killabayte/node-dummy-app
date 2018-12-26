@@ -1,5 +1,5 @@
-node-dummy-app (0.0.1) unstable; urgency=medium
+node-dummy-app (0.0.2) unstable; urgency=medium
 
-  * Initial release
+  * Increase version
 
- -- Yaroslav Kostyannikov <yaroslav.kostyannikov@datarobot.com>  Wed, 26 Dec 2018 05:47:14 +0100
+ -- Yaroslav Kostyannikov <yaroslav.kostyannikov@datarobot.com>  Wed, 26 Dec 2018 07:24:14 +0100

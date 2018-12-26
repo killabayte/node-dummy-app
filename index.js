@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Deployed by Spinnaker: Dummy-App v.0.0.1');
+  res.send('Deployed by Spinnaker: Dummy-App v.0.0.2');
 });
 
 var server = app.listen(3000, function () {

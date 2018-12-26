@@ -2,7 +2,7 @@ Source: node-dummy-app
 Section: unknown
 Priority: optional
 Maintainer: Yaroslav Kostyannikov <killabayte.yarick@gmail.com>
-Standards-Version: 0.0.1
+Standards-Version: 0.0.2
 
 Package: node-dummy-app
 Architecture: any
